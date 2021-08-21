@@ -1,7 +1,5 @@
 ## Hi everyone 👋
 
-***
-
 ### Personal
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ReactJS and .NET
