@@ -1,14 +1,15 @@
 <h2>Hello, I'm Hoàng Khôi<img src="https://media1.giphy.com/media/9Y1y3VOnIywPUlg2Yy/giphy.webp" width="25"></a></p></h2>
 
 
-<h3 align="left">🧐&nbsp;&nbsp;Talking about Personal Stuffs:</h3>
-<img align="right" src="https://th.bing.com/th/id/OIP.QX6-6YauxBYpJ4seBM-_6QHaFj?pid=ImgDet&rs=1" width="300">
+<h2 align="left">🧐&nbsp;&nbsp;Talking about Personal Stuffs:</h2>
+<img align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="300">
 
 - 🎒 I’m currently studying at FPT university.
 - 💻 I’m currently learning .NET and ReactJS.
 - 💼 I’m seeking for an intern in web developing position.
 - 📫 Contact with me via [Email](khoileit01@gmail.com).
 - ⚡ Fun fact: I love reading and listening soft songs.
+</br>
 
 ## 🚀 Languages and Tools:
 
@@ -27,7 +28,7 @@
 </p>
 </br>
 
-<h3 align="left"><img src="https://media.giphy.com/media/duL25poEiKqn4LWm3U/giphy.gif" width="32">&nbsp;&nbsp;Github Stats</h3>
+<h2 align="left"><img src="https://media.giphy.com/media/duL25poEiKqn4LWm3U/giphy.gif" width="32">&nbsp;&nbsp;Github Stats</h3>
 <div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lehoangkhoi01&show_icons=true&locale=en&layout=compact&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="lehoangkhoi01" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lehoangkhoi01&show_icons=true&locale=en&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="lehoangkhoi01" /></div>
 
