@@ -8,7 +8,7 @@
 - 💻 I’m currently learning .NET and ReactJS.
 - 💼 I’m seeking for an intern in web developing position.
 - 📫 Contact with me via [Email](khoileit01@gmail.com).
-- ⚡ Fun fact: I love reading and listening soft songs.
+- ⚡ Fun fact: I love reading and listening to soft songs.
 </br>
 
 ## 🚀 Languages and Tools:
