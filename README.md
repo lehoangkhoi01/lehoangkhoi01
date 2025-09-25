@@ -4,9 +4,7 @@
 <h2 align="left">🧐&nbsp;&nbsp;Talking about Personal Stuffs:</h2>
 <img align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="300">
 
-- 🎒 I’m currently studying at FPT university.
-- 💻 I’m currently learning .NET and ReactJS.
-- 💼 I’m seeking for an intern in web developing position.
+- 💼 I’m seeking for a Junior Data Engineer position.
 - 📫 Contact with me via [Email](khoileit01@gmail.com).
 - ⚡ Fun fact: I love reading and listening to soft songs.
 </br>
